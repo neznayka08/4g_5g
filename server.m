@@ -2,7 +2,7 @@
 % Prepare the following JAR file by running:
 % `mvn clean install -DskipTests`
 % in the JeroMQ repo.
-JARPATH = '/home/marina/4_Curs/jeromq-0.6.0/target/';
+JARPATH = '/home/neznayka08/Документы/4g_5g_1/jeromq-0.6.0/target/jeromq-0.6.0.jar';
 javaclasspath(JARPATH)
 if 1
     import org.zeromq.*
