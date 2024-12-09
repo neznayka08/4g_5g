@@ -22,4 +22,3 @@ int main (void)
     zmq_ctx_destroy (context);
     return 0;
 }
-
